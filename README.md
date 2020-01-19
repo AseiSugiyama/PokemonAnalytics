@@ -27,4 +27,4 @@ $ jupyter notebook
 
 ## Thanks
 
-Scraping codes are mostly from [odanado/poke2vec: ポケモンの役割ベクトルを計算](https://github.com/odanado/poke2vec). I rewrote codes into Jupyter Notebook format.
+Scraping codes are mostly from [odanado/poke2vec](https://github.com/odanado/poke2vec). I rewrote codes into Jupyter Notebook format.
