@@ -22,7 +22,7 @@ $ jupyter notebook
 
 ## Data Set
 
-- [Pokemon with stats](https://www.kaggle.com/abcsds/pokemon#)
+- [The Complete Pokemon Dataset](https://www.kaggle.com/rounakbanik/pokemon#pokemon.csv)
 - [Pokémon Showdown! battle simulator](https://pokemonshowdown.com/)
 
 ## Thanks
